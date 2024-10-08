@@ -21,5 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=editorbymood&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-
+![snake gif](https://github.com/editorbymood/editorbymood/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
