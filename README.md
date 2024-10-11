@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:<br/> 
-- 🌟 Mentor at GirlScript Summer of Code '24<br>-💼Former Intern at PARLIAMENT OF INDIA<br>- 🎯 Ex-Photography Head @ GTB4CEC <br>- 🖥️ Hands-on with Data Structures & Algorithms (JAVA)<br>- ☁️ Member of Azure Developer Community<br>- 🚀 Exploring Blockchain, Web3, and Gen AI<br>- 🌍 Always learning and open to collaboration! 
+- 🌟 Mentor at GirlScript Summer of Code '24<br>-💼Former Intern at PARLIAMENT OF INDIA<br>- 🎯 Ex-Photography Head @ GTB4CEC <br>- ☁️ Member of Azure Developer Community<br>- 🖥️ Hands-on with Data Structures & Algorithms (JAVA)<br>- 🚀 Exploring Blockchain, Web3, and Gen AI<br>- 🌍 Always learning and open to collaboration! 
 
 
 ## 🌐 Socials:
