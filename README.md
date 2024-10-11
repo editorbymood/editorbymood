@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:<br/> 
--💻 3rd Year CSE Student | B.Tech '26 <br>- 🌱 Full-Stack Developer<br>- 🛠️ Proficient in Web Development: HTML, CSS, JavaScript, Node.js<br>- 🖥️ Hands-on with Data Structures & Algorithms (C++, Python)<br>- ☁️ Member of Azure Developer Community<br>- 🚀 Exploring Blockchain, Web3, and Gen AI<br>- 🌟 Mentor at GirlScript Summer of Code '24<br>- 🎯 Ex-Photography Head @ GTB4CEC <br>- 🌍 Always learning and open to collaboration! 
+- 🌟 Mentor at GirlScript Summer of Code '24<br>-💼Former Intern at PARLIAMENT OF INDIA<br>- 🖥️ Hands-on with Data Structures & Algorithms (JAVA)<br>- ☁️ Member of Azure Developer Community<br>- 🚀 Exploring Blockchain, Web3, and Gen AI<br>- 🎯 Ex-Photography Head @ GTB4CEC <br>- 🌍 Always learning and open to collaboration! 
 
 
 ## 🌐 Socials:
