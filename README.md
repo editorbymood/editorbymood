@@ -22,8 +22,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=editorbymood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=editorbymood&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<img align="left" alt="coding" width="1000" height="300" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+
 
 
 
