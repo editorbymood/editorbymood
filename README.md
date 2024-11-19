@@ -3,8 +3,8 @@
 <h1 align="center">Hi there👋🏻 I'm SHANKET KUMAR</h1> 
 
 
-# 💫 About Me:<br/> 
--🌟Mentor at GirlScript Summer of Code '24<br>-💼Former Intern at PARLIAMENT OF INDIA<br>- 🎯 Photography Head @ GTB4CEC <br>- ☁️ Member of Azure Developer Community<br>- 🖥️ Hands-on with Data Structures & Algorithms (JAVA)<br>- 🚀 Exploring Blockchain, Web3, and Gen AI<br>- 🌍 Always learning and open to collaboration! 
+# 💫 About Me: <br/> 
+✦🌟Mentor at GirlScript Summer of Code '24<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Hands-on with Data Structures & Algorithms (JAVA)<br>✦ 🚀 Exploring Blockchain, Web3, and Gen AI<br>✦🌍 Always learning and open to collaboration! 
 
 
 ## 🌐 Socials:
