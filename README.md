@@ -5,7 +5,7 @@
 
 
 # 👨‍💻 About Me: <br/> 
-✦🌟Mentor at GirlScript Summer of Code '24<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah<br>✦🌍 Always learning and open to collaboration! 
+✦🌟Mentor at GirlScript Summer of Code '24<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦🌍 Always learning and open to collaboration! 
 
 
 ## 🌐 Socials:
