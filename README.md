@@ -1,10 +1,11 @@
 <img align="left" alt="coding" width="1000" height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <img align="left" alt="coding" width="1000" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" style="width: 50px; height: 50px;"> I'm SHANKET KUMAR <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" style="width: 50px; height: 50px;"></h1> 
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="width: 100px; height: 100px;"> I'm SHANKET KUMAR <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" style="width: 50px; height: 50px;"></h1> 
 
 
 # 👨‍💻 About Me: <br/> 
+<img align="right" alt="coding" height="200" width="270" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
 ✦👑Aspire Leader'25 Harvard University<br>✦🌟Mentor at GirlScript Summer of Code '24<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦🌍 Always learning and open to collaboration! 
 
 
