@@ -1,5 +1,5 @@
 <img align="left" alt="coding" width="1000" height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<img align="left" alt="coding" width="1000" height="300" src="https://th.bing.com/th/id/R.73ad70128b1ca011baa9c62df3402852?rik=FD8j7PTO3ScTVQ&riu=http%3a%2f%2fimg0.joyreactor.com%2fpics%2fpost%2fgif-night-office-485332.gif&ehk=X8ifI96h0uUOGXs7pHK68aGvBQgLaD7mgeIL7lTZZwQ%3d&risl=&pid=ImgRaw&r=0">
+<img align="left" alt="coding" width="1000" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h1 align="center">Hi there👋🏻 I'm SHANKET KUMAR</h1> 
 
