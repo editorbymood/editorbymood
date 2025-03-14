@@ -23,8 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=editorbymood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="left" alt="coding" width="1000" height="300" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
-
+<img align="left" alt="coding" width="1000" height="300" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
