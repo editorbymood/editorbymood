@@ -11,13 +11,13 @@
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/shanket-kumar-codeex/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 40px; height: 40px;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
     </a>
     <a href="https://x.com/S_anketkumarrrr" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" style="width: 40px; height: 40px;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" style="width: 50px; height: 50px;">
     </a>
     <a href="https://www.instagram.com/sanketkumarar/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 40px; height: 40px;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 50px; height: 50px;">
     </a>
 </div>
 
