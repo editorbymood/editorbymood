@@ -9,7 +9,18 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/43zca9XePT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanketkumarar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shanket-kumar-codeex) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/S_anketkumarrrr) 
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/shanket-kumar-codeex/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://x.com/S_anketkumarrrr" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" style="width: 40px; height: 40px;">
+    </a>
+    <a href="https://www.instagram.com/sanketkumarar/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" style="width: 40px; height: 40px;">
+    </a>
+</div>
+
 
 
 # 💻 Tech Stack:
