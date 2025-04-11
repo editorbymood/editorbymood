@@ -11,7 +11,7 @@
 
 
 # 👨‍💻 About Me: <br/> 
-<img align="right" alt="coding" height="200" width="270" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
+<img align="right" alt="coding" height="200" width="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 ✦👑Aspire Leader'25 Harvard University<br>✦🌟Mentor at GirlScript Summer of Code '24 & Social Winter of Code'2024<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦🌍 Always learning and open to collaboration! 
 
 
