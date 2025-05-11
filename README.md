@@ -11,7 +11,7 @@
 
 
 # 👨‍💻 About Me: <br/> 
-<img align="right" alt="coding" height="200" width="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="coding" height="200" width="270" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif">
 ✦👑Aspire Leader'25 Harvard University<br>✦🌟Mentor at GirlScript Summer of Code '24 & Social Winter of Code'2024<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦🌍 Always learning and open to collaboration! 
 
 
@@ -51,7 +51,7 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=editorbymood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="left" alt="coding" width="1000" height="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ2cW4wYXJ3cnd5d3ZmcXFwOGJoZ2Jta3YyenBqcTZlbzk4djJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="left" alt="coding" width="1000" height="480" src="https://i.giphy.com/p4NLw3I4U0idi.webp">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
