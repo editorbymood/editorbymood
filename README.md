@@ -1,5 +1,5 @@
 <img align="left" alt="coding" width="1000" height="10" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align="left" alt="coding" width="1000" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="left" alt="coding" width="1000" height="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h1 align="center">
   Hi there 
@@ -51,7 +51,7 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=editorbymood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="left" alt="coding" width="1000" height="300" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1404.gif">
+<img align="left" alt="coding" width="1000" height="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZ2cW4wYXJ3cnd5d3ZmcXFwOGJoZ2Jta3YyenBqcTZlbzk4djJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
