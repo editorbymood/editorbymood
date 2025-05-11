@@ -51,8 +51,6 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=editorbymood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<img align="left" alt="coding" width="1000" height="480" src="https://i.giphy.com/p4NLw3I4U0idi.webp">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
