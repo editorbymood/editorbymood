@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me: <br/> 
 <img align="right" alt="coding" height="200" width="270" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif">
-✦🤠ITS-Intern Engineers India Limited<br>✦👑Aspire Leader'25 Harvard University<br>✦🌟Mentor at GirlScript Summer of Code '24 & Social Winter of Code'2024<br>✦💼Former Intern at PARLIAMENT OF INDIA<br>✦🎯 Photography Head @ GTB4CEC <br>✦☁️ Member of Azure Developer Community<br>✦🖥️ Student Partner at Internshala<br>✦🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦🌍 Always learning and open to collaboration! 
+✦ 🤠Ex-ITS Intern Engineers India Limited<br>✦ 👑Aspire Leader'25 Harvard University<br>✦ 🌟Mentor at GirlScript Summer of Code '24 & Social Winter of Code'2024<br>✦ 💼Former Intern at PARLIAMENT OF INDIA & AICTE<br>✦ 🎯 Photography Head @ GTB4CEC <br>✦ ☁️ Member of Azure Developer Community<br>✦ 🖥️ Student Partner at Internshala<br>✦ 🚀 Campus Ambassador at Physics Wallah & E'Cell IIT Bombay<br>✦ 🌍 Always learning and open to collaboration! 
 
 
 # 🌐 Socials:
