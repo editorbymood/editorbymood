@@ -1,14 +1,12 @@
-<img align="left" alt="coding" width="1000" height="10" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align="left" alt="coding" width="1000" height="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 <h1 align="center">
-  Hi there 
+  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" style="width: 50px; height: 50px; vertical-align: middle;">
-  I'm SHANKET KUMAR 
+  𝕀'𝕞 𝕊ℍ𝔸ℕ𝕂𝔼𝕋 𝕂𝕌𝕄𝔸ℝ 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" style="width: 50px; height: 50px; vertical-align: middle;">
 </h1>
 
-
+<img align="left" alt="coding" width="1000" height="10" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="left" alt="coding" width="1000" height="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # 👨‍💻 About Me: <br/> 
 <img align="right" alt="coding" height="200" width="270" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif">
