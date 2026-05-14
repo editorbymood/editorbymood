@@ -93,13 +93,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=editorbymood&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=0&order=3" height="100" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/editorbymood/editorbymood/stats-output/stats.svg" height="140" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/editorbymood/editorbymood/languages-output/languages.svg" height="140" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/editorbymood/editorbymood/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/editorbymood/editorbymood/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
 
