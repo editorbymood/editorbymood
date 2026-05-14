@@ -5,9 +5,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" style="width: 50px; height: 50px; vertical-align: middle;">
 </h1>
 
-<img align="left" alt="coding" width="1000" height="10" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align="left" alt="coding" width="1000" height="480" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkNWlnamQyczluNXI2bnp3bDBhcXJtYzBnZHAyYTJ1dDd2YmYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 # 👨‍💻 About Me: <br/> 
 <img align="right" alt="coding" height="200" width="270" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif">
 ✦ 🤠Ex-ITS Intern Engineers India Limited.<br>✦ 👑Aspire Leader'25 Harvard University.<br>✦ 🌟Mentor at GirlScript Summer of Code'24'25 & Social Winter of Code'2024.<br>✦ 💼Former Intern at PARLIAMENT OF INDIA.<br>✦ 🖥️ Student Partner at Internshala.<br>✦ 🚀 Campus Ambassador at Physics Wallah.<br>
@@ -33,13 +30,8 @@
 
 
 
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=editorbymood&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=editorbymood&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=editorbymood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
