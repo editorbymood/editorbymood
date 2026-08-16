@@ -14,7 +14,7 @@
 ###
 
 # About Me: <br/> 
-<img align="right" alt="coding" height="200" width="270" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif">
+
 ✦ 🤠Ex-ITS Intern Engineers India Limited.<br>✦ 👑Aspire Leader'25 Harvard University.<br>✦ 🌟Mentor at GirlScript Summer of Code'24'25 & Social Winter of Code'2024.<br>✦ 💼Former Intern at PARLIAMENT OF INDIA.<br>✦ 🖥️ Student Partner at Internshala.<br>✦ 🚀 Campus Ambassador at Physics Wallah.<br>
 
 
